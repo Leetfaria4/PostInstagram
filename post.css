@@ -52,8 +52,10 @@ body {
 
 /* Imagem */
 img {
-    width: 100%;
-    max-width: 300px;
+   display: block;
+  margin: 0 auto;
+  max-width: 300px;
+  height: auto;
 }
 
 /* Conteúdo */
